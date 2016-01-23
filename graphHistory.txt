@@ -1,0 +1,17 @@
+Version:4.0
+############
+Graph Name:g1
+Created on:Tue Nov 01 11:34:40 EDT 2011
+Total Nodes:5
+Total Edges:4
+Vertices:0,1,2,3,4
+
+Edge Data:E0[4,3] E2[1,2] E1[3,1] E3[2,0] 
+Mathematica Output:
+MatrixForm[{{0,0,1,0,0},
+{0,0,1,1,0},
+{1,1,0,0,0},
+{0,1,0,0,1},
+{0,0,0,1,0}
+}]
+%%%%%%%%%%%%
